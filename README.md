@@ -1,1 +1,1 @@
-https://github.com/yandex-praktikum/posmotri-v-okno-fd.git
+https://github.com/rayof-liberty/posmotri-v-okno-fd.git
