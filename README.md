@@ -1,1 +1,1 @@
-https://github.com/rayof-liberty/posmotri-v-okno-fd.git
+git@github.com:rayof-liberty/posmotri-v-okno-fd.git
